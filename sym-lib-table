@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name System4cpu-rescue)(type Legacy)(uri ${KIPRJMOD}/System4cpu-rescue.lib)(options "")(descr ""))
+)
